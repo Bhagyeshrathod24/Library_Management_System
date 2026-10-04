@@ -1,1 +1,2 @@
 print("Student")
+print("Students")
